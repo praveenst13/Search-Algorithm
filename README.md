@@ -92,7 +92,7 @@ if (result == -1):
 else:
     print(array)
     print("Element found at index: ",result)
-''' 
+```
 ## Sample Input and Output
 i[out](input.png)
 ## Output:
